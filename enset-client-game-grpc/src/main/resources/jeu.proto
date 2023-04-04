@@ -1,0 +1,16 @@
+syntax="proto3";
+option java_package="ma.enset.stubs";
+
+
+service VerfyNbrSecret{
+  rpc fullClientRequest(stream ClientRequest) returns(stream ClientResponse);
+}
+
+message ClientRequest{
+  string request=1;
+}
+
+message ClientResponse{
+  string request = 1;
+    string response = 2;
+}
