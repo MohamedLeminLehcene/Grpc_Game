@@ -39,8 +39,6 @@
 <img src="pictures/ResultaFinal/img23.png"/>
 <img src="pictures/ResultaFinal/img24.png"/>
 <img src="pictures/ResultaFinal/img25.png"/>
-<img src="pictures/ResultaFinal/img26.png"/>
-<img src="pictures/ResultaFinal/img27.png"/>
 <img src="pictures/ResultaFinal/img28.png"/>
 <img src="pictures/ResultaFinal/img29.png"/>
 <img src="pictures/ResultaFinal/img30.png"/>
