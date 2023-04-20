@@ -42,7 +42,6 @@
 <img src="pictures/ResultaFinal/img28.png"/>
 <img src="pictures/ResultaFinal/img29.png"/>
 <img src="pictures/ResultaFinal/img30.png"/>
-<img src="pictures/ResultaFinal/img31.png"/>
 <img src="pictures/ResultaFinal/img32.png"/>
 <img src="pictures/ResultaFinal/img33.png"/>
 <img src="pictures/ResultaFinal/img34.png"/>
